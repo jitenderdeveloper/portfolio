@@ -1,0 +1,112 @@
+@media(max-width: 516px) {
+
+    .h3,
+    .h1-heading {
+        font-size: 45px;
+    }
+
+    .buble-span3 {
+        top: 26%;
+        left: 80%;
+    }
+
+    .buble-span2 {
+        left: 46%;
+    }
+
+    .buble-span4 {
+        top: 66%;
+        left: 10%;
+    }
+
+    .buble-span5 {
+        top: 3%;
+        left: 5%;
+    }
+
+    .buble-span1 {
+        top: 65%;
+        left: 70%;
+    }
+
+    .sec-heading {
+        width: 90%;
+    }
+
+    .feature-card {
+        margin-bottom: 1.5rem;
+    }
+
+    .Good-developer {
+        height: auto;
+    }
+
+    .skill-row {
+        width: 90%;
+    }
+
+    .contact-w {
+        width: 90%;
+        margin-bottom: 4rem;
+    }
+
+    .buton-list button {
+        margin-bottom: 10px;
+        overflow-y: scroll;
+    }
+
+    .back-btn {
+        width: 40px;
+        height: 40px;
+        font-size: 1.6rem;
+    }
+
+    .buble-span6 {
+        width: 40px;
+        height: 40px;
+        right: 10px;
+        cursor: pointer;
+        font-size: 1.6rem;
+    }
+
+    .other-btn {
+        top: 12px;
+        right: 24px;
+    }
+
+    .card-img {
+        height: 28vh;
+    }
+
+    .blog p {
+        font-size: 13px;
+    }
+
+    .main-blog-content p {
+        height: auto;
+    }
+
+    .blog-page .blogpage-img {
+        height: 28vh;
+    }
+
+    .navbar {
+        bottom: 10px;
+    }
+
+    .mobile-mar {
+        margin-top: 1.4rem;
+    }
+
+    .protfolio-margin {
+        margin-bottom: 0;
+    }
+
+    .client-image {
+        height: 13vh;
+    }
+    .clients{
+        padding-top: 6rem !important;
+    }
+
+}

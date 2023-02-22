@@ -1,0 +1,1 @@
+export const URL_LINK = 'https://node-api-beryl.vercel.app';
